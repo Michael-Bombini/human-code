@@ -27,4 +27,6 @@
         -indico nel nome quale lato ho scansionato
         -SE si tratta del "RETRO"
             -ALLORA digito "nome documento" + "RETRO"
--completo il salvataggio del documento nella cartella creata in precedenza.
+
+    -completo il salvataggio del documento nella cartella creata in precedenza.
+
